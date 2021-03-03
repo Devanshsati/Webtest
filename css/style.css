@@ -94,4 +94,11 @@ Author: Christopher Castig | @castig
 .li,a
 {
      color: orangered;
+     text-decoration: none;
+}
+.icon
+{
+     width: 18px;
+     height: 18px;
+     margin-left:10px;
 }
