@@ -32,6 +32,7 @@ Author: Christopher Castig | @castig
 {
      font-size: large;
      
+     
 }
 .head
 {
@@ -89,4 +90,8 @@ Author: Christopher Castig | @castig
      border-left: 5px solid grey;
      padding-left: 6px;
      height: 85px;
+}
+.li,a
+{
+     color: orangered;
 }
