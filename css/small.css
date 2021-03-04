@@ -50,4 +50,9 @@ h2
   position: relative;
   -moz-box-align: center;
 }
-
+.vl
+{
+     border-left: 5px solid grey;
+     padding-left: 6px;
+     height: 65px;
+}
