@@ -29,6 +29,10 @@
   height: 100%;
   border-radius: 25px;
 }
+h2.headh2
+{
+  margin-top: 20px;
+}
 h2
 {
   font-size: xx-large;
