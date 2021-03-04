@@ -34,9 +34,15 @@ h2
   font-size: xx-large;
   margin-top: 50px;
 }
+.font
+{
+  font-style: italic;
+  font-weight: bold;
+}
 .h6
 {
   font-size: smaller;
+  font-weight: lighter;
   margin: 15px;
 }
 
