@@ -61,7 +61,11 @@ Author: Christopher Castig | @castig
 .sidebar
 {
      background-color: whitesmoke;
+     width: 325px;
      float: left;
+     margin: 15px;
+     padding: 20px;
+     margin-top: 0px;
 }
 .footer
 {
