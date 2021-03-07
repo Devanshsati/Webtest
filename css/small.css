@@ -48,11 +48,17 @@ h2
   bottom: -35px;
   border-radius: 25px;
   position: relative;
-  -moz-box-align: center;
+  
 }
 .vl
 {
      border-left: 5px solid grey;
      padding-left: 6px;
      height: 65px;
+}
+.footer
+{
+  display: inline-flex;
+  margin-left: 10px;
+  width: 600px;
 }
