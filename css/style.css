@@ -1,9 +1,6 @@
 /* 
 Project Name: Monthly Resolutions
 Client: One Month
-Author: Christopher Castig | @castig
-*/
-
 
 /*----------------------------------------------------------------------------- 
 01=BASE   
@@ -45,10 +42,20 @@ Author: Christopher Castig | @castig
      margin: auto;
      font-style: inherit;
 }
+/* .bkgrd
+{
+     background-image: linear-gradient(to right,#000428 , #042746);
+} */
+.header
+{
+     border-radius: 25px;
+     margin-bottom: 20px;
+     background-image: linear-gradient(to left,#ddd6f3 , #faaca8);
+}
 .main
 {
      background: whitesmoke;
-     background-image: linear-gradient(to right, goldenrod , yellow , goldenrod );
+     background-image: linear-gradient(to right,#eecda3 , #ef629f);
      border-radius: 25px;
      float: left;
      width: 600px;
@@ -62,7 +69,7 @@ Author: Christopher Castig | @castig
 .sidebar
 {
      background-color: whitesmoke;
-     background-image: linear-gradient(to right, purple , blue , purple );
+     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
      width: 325px;
      border-radius: 25px;
      float: left;
@@ -110,10 +117,4 @@ Author: Christopher Castig | @castig
 .photo
 {
      border-radius: 25px;
-}
-.header
-{
-     border-radius: 25px;
-     margin-bottom: 20px;
-     background-image: linear-gradient(to left, green , lightgreen , green );
 }
