@@ -42,20 +42,20 @@ Client: One Month
      margin: auto;
      font-style: inherit;
 }
-/* .bkgrd
+.bkgrd
 {
-     background-image: linear-gradient(to right,#000428 , #042746);
-} */
+     background-image: linear-gradient(to right,#000428 , #052847);
+} 
 .header
 {
      border-radius: 25px;
      margin-bottom: 20px;
-     background-image: linear-gradient(to left,#ddd6f3 , #faaca8);
+     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
 }
 .main
 {
      background: whitesmoke;
-     background-image: linear-gradient(to right,#eecda3 , #ef629f);
+     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
      border-radius: 25px;
      float: left;
      width: 600px;
