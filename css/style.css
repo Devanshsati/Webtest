@@ -19,17 +19,17 @@ Client: One Month
 .h4
 {
      margin: 0;
+     text-align: center;
 }
 .xsize
 {
      font-size: xxx-large;
+     text-align: center;
      margin: 0;
 }
 .size
 {
      font-size: large;
-     
-     
 }
 .head
 {
@@ -105,7 +105,7 @@ Client: One Month
 }
 .li,a
 {
-     color: orangered;
+     color: white;
      text-decoration: none;
 }
 .icon
