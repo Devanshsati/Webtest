@@ -44,18 +44,18 @@ Client: One Month
 }
 .bkgrd
 {
-     background-image: linear-gradient(to right,#000428 , #052847);
+     background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 } 
 .header
 {
      border-radius: 25px;
      margin-bottom: 20px;
-     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
+     background-image: radial-gradient(circle, #ede64d, #f1de4a, #f4d647, #f7ce46, #f9c646, #f9b93d, #f8ab36, #f79d31, #f38425, #ee6a1f, #e84c1f, #e02222);
 }
 .main
 {
      background: whitesmoke;
-     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
+     background-image: radial-gradient(circle, #ede64d, #f1de4a, #f4d647, #f7ce46, #f9c646, #f9b93d, #f8ab36, #f79d31, #f38425, #ee6a1f, #e84c1f, #e02222);
      border-radius: 25px;
      float: left;
      width: 600px;
@@ -69,7 +69,7 @@ Client: One Month
 .sidebar
 {
      background-color: whitesmoke;
-     background-image: linear-gradient(to right, #ff5f6d , #ffc371);
+     background-image: radial-gradient(circle, #ede64d, #f1de4a, #f4d647, #f7ce46, #f9c646, #f9b93d, #f8ab36, #f79d31, #f38425, #ee6a1f, #e84c1f, #e02222);
      width: 325px;
      border-radius: 25px;
      float: left;
@@ -105,7 +105,8 @@ Client: One Month
 }
 .li,a
 {
-     color: white;
+     color: rgb(141, 0, 118);
+     font-weight: bold;
      text-decoration: none;
 }
 .icon
