@@ -58,7 +58,7 @@ Client: One Month
      background-image: radial-gradient(circle, #ede64d, #f1de4a, #f4d647, #f7ce46, #f9c646, #f9b93d, #f8ab36, #f79d31, #f38425, #ee6a1f, #e84c1f, #e02222);
      border-radius: 25px;
      float: left;
-     width: 600px;
+     width: 620px;
      padding: auto;
      justify-content: center;
 }
@@ -73,9 +73,8 @@ Client: One Month
      width: 325px;
      border-radius: 25px;
      float: left;
-     margin: 15px;
+     margin: 0px 0px 15px 15px;
      padding: 15px 30px 15px 30px;
-     margin-top: 0px;
 }
 .footer
 {
@@ -118,4 +117,5 @@ Client: One Month
 .photo
 {
      border-radius: 25px;
+     margin: 20px;
 }
