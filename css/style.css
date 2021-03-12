@@ -117,5 +117,6 @@ Client: One Month
 .photo
 {
      border-radius: 25px;
-     margin: 20px;
+     width: 100%;
+     /* margin: 20px; */
 }
