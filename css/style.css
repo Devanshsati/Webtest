@@ -95,7 +95,8 @@ Client: One Month
 }
 .radius
 {
-     border-radius: 100px;
+     border-radius: 26px;
+     width: 100%;
 }
 .vl
 {
